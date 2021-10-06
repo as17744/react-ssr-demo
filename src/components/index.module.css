@@ -1,0 +1,8 @@
+.address {
+  color: #ff0000;
+}
+.addressWrapper {
+  padding: 10px;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
